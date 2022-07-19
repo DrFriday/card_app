@@ -17,10 +17,10 @@ class CardService {
   static Future<List<dynamic>> getCards() async {
     try {
       final cards = await cardRef.get();
-      print(cards);
+      // print(cards);
       return cards.docs.map((doc) => doc.data()).toList();
     } catch (e) {
-      print(e);
+      // print(e);
       return [];
     }
   }
