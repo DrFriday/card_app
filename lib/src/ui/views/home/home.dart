@@ -1,7 +1,5 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
-import '../../../core/model/card_model.dart';
 import '../../../core/services/card_service.dart';
 import 'widgets/front_view.dart';
 import 'widgets/rear_view.dart';
@@ -87,11 +85,11 @@ class _HomePageState extends State<HomePage> {
 }
 
 
- // child: ListView.builder(itemBuilder: (context, index) {
-        //   const cardItem = data[index];
-        //   return MyCard(
-        //     key: Key('my_card'),
-        //     title: cardItem.title,
-        //     subtitle: cardItem.subtitle,
-        //   );
-        // }),
+//  child: ListView.builder(itemBuilder: (context, index) {
+//           const cardItem = data[index];
+//           return MyCard(
+//             key: Key('my_card'),
+//             title: cardItem.title,
+//             subtitle: cardItem.subtitle,
+//           );
+//         }),
