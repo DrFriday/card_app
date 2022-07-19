@@ -14,8 +14,8 @@ class CardWidget extends StatelessWidget {
     return Center(
       child: InkWell(
         child: Container(
-          width: 300,
-          height: 200,
+          width: 350,
+          height: 250,
           padding: const EdgeInsets.all(10.0),
           child: Card(
             shape: RoundedRectangleBorder(
