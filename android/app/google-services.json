@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031620961897",
+    "project_id": "my-card-app-7878784547",
+    "storage_bucket": "my-card-app-7878784547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031620961897:android:f3b0a171c168154fc164f8",
+        "android_client_info": {
+          "package_name": "com.example.cardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031620961897-5eh8shkvem1dg6h6t6mr46t1tavje4q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZeHc-0LtACSynSbgO88-KvRs0GEecCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031620961897-5eh8shkvem1dg6h6t6mr46t1tavje4q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
